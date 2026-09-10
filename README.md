@@ -2,6 +2,10 @@
 
 ## Admin panel
 
+### Teams
+
+![Teams admin](./.github/screenshots/TeamPage.gif)
+
 ### Athletes
 
 ![Athletes admin](./.github/screenshots/AthletePage.gif)
